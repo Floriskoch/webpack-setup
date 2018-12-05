@@ -1,0 +1,10 @@
+
+$bg: orange;
+
+html {
+	background-color: $bg;
+    display: flex;
+    align-items: center;
+}
+
+@import './components/button';
